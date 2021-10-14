@@ -1,0 +1,82 @@
+C:\Users\TRANTHANHHAU\Desktop\Do an lap trinh ung dung\Quanlykhachsan3lop\DAO\bin\Debug\DAO.dll.config
+C:\Users\TRANTHANHHAU\Desktop\Do an lap trinh ung dung\Quanlykhachsan3lop\DAO\bin\Debug\DAO.dll
+C:\Users\TRANTHANHHAU\Desktop\Do an lap trinh ung dung\Quanlykhachsan3lop\DAO\bin\Debug\DAO.pdb
+C:\Users\TRANTHANHHAU\Desktop\Do an lap trinh ung dung\Quanlykhachsan3lop\DAO\bin\Debug\DTO.dll
+C:\Users\TRANTHANHHAU\Desktop\Do an lap trinh ung dung\Quanlykhachsan3lop\DAO\bin\Debug\DTO.pdb
+C:\Users\TRANTHANHHAU\Desktop\Do an lap trinh ung dung\Quanlykhachsan3lop\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TRANTHANHHAU\Desktop\Do an lap trinh ung dung\Quanlykhachsan3lop\DAO\obj\Debug\DAO.dll
+C:\Users\TRANTHANHHAU\Desktop\Do an lap trinh ung dung\Quanlykhachsan3lop\DAO\obj\Debug\DAO.pdb
+E:\Do an lap trinh ung dung\Bao cao\Do an lap trinh ung dung\Quanlykhachsan3lop\DAO\bin\Debug\DAO.dll.config
+E:\Do an lap trinh ung dung\Bao cao\Do an lap trinh ung dung\Quanlykhachsan3lop\DAO\bin\Debug\DAO.dll
+E:\Do an lap trinh ung dung\Bao cao\Do an lap trinh ung dung\Quanlykhachsan3lop\DAO\bin\Debug\DAO.pdb
+E:\Do an lap trinh ung dung\Bao cao\Do an lap trinh ung dung\Quanlykhachsan3lop\DAO\bin\Debug\DTO.dll
+E:\Do an lap trinh ung dung\Bao cao\Do an lap trinh ung dung\Quanlykhachsan3lop\DAO\bin\Debug\DTO.pdb
+E:\Do an lap trinh ung dung\Bao cao\Do an lap trinh ung dung\Quanlykhachsan3lop\DAO\obj\Debug\ResolveAssemblyReference.cache
+E:\Do an lap trinh ung dung\Bao cao\Do an lap trinh ung dung\Quanlykhachsan3lop\DAO\obj\Debug\DAO.dll
+E:\Do an lap trinh ung dung\Bao cao\Do an lap trinh ung dung\Quanlykhachsan3lop\DAO\obj\Debug\DAO.pdb
+E:\Do an lap trinh ung dung\Quanlykhachsan3lop\DAO\bin\Debug\DAO.dll.config
+E:\Do an lap trinh ung dung\Quanlykhachsan3lop\DAO\bin\Debug\DAO.dll
+E:\Do an lap trinh ung dung\Quanlykhachsan3lop\DAO\bin\Debug\DAO.pdb
+E:\Do an lap trinh ung dung\Quanlykhachsan3lop\DAO\bin\Debug\DTO.dll
+E:\Do an lap trinh ung dung\Quanlykhachsan3lop\DAO\bin\Debug\DTO.pdb
+E:\Do an lap trinh ung dung\Quanlykhachsan3lop\DAO\obj\Debug\ResolveAssemblyReference.cache
+E:\Do an lap trinh ung dung\Quanlykhachsan3lop\DAO\obj\Debug\DAO.dll
+E:\Do an lap trinh ung dung\Quanlykhachsan3lop\DAO\obj\Debug\DAO.pdb
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\DAO\bin\Debug\DAO.dll.config
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\DAO\bin\Debug\DAO.dll
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\DAO\bin\Debug\DAO.pdb
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\DAO\bin\Debug\DTO.dll
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\DAO\bin\Debug\DTO.pdb
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\DAO\obj\Debug\DAO.dll
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\DAO\obj\Debug\DAO.pdb
+E:\Do an lap trinh ung dung\Sourcode\DAO\bin\Debug\DAO.dll.config
+E:\Do an lap trinh ung dung\Sourcode\DAO\bin\Debug\DAO.dll
+E:\Do an lap trinh ung dung\Sourcode\DAO\bin\Debug\DAO.pdb
+E:\Do an lap trinh ung dung\Sourcode\DAO\bin\Debug\DTO.dll
+E:\Do an lap trinh ung dung\Sourcode\DAO\bin\Debug\DTO.pdb
+E:\Do an lap trinh ung dung\Sourcode\DAO\obj\Debug\ResolveAssemblyReference.cache
+E:\Do an lap trinh ung dung\Sourcode\DAO\obj\Debug\DAO.dll
+E:\Do an lap trinh ung dung\Sourcode\DAO\obj\Debug\DAO.pdb
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\DAO\bin\Debug\DAO.dll.config
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\DAO\bin\Debug\DAO.dll
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\DAO\bin\Debug\DAO.pdb
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\DAO\bin\Debug\DTO.dll
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\DAO\bin\Debug\DTO.pdb
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\DAO\obj\Debug\ResolveAssemblyReference.cache
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\DAO\obj\Debug\DAO.dll
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\DAO\obj\Debug\DAO.pdb
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\DAO\bin\Debug\DAO.dll.config
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\DAO\bin\Debug\DAO.dll
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\DAO\bin\Debug\DAO.pdb
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\DAO\bin\Debug\DTO.dll
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\DAO\bin\Debug\DTO.pdb
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\DAO\obj\Debug\ResolveAssemblyReference.cache
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\DAO\obj\Debug\DAO.dll
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\DAO\obj\Debug\DAO.pdb
+D:\Download\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\DAO\bin\Debug\DAO.dll.config
+D:\Download\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\DAO\bin\Debug\DAO.dll
+D:\Download\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\DAO\bin\Debug\DAO.pdb
+D:\Download\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\DAO\bin\Debug\DTO.dll
+D:\Download\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\DAO\bin\Debug\DTO.pdb
+D:\Download\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\Download\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\DAO\obj\Debug\DAO.dll
+D:\Download\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\DAO\obj\Debug\DAO.pdb
+C:\Users\PY\Desktop\NET_QLKHACHSAN - Copy - Copy\DAO\bin\Debug\DAO.dll.config
+C:\Users\PY\Desktop\NET_QLKHACHSAN - Copy - Copy\DAO\bin\Debug\DAO.dll
+C:\Users\PY\Desktop\NET_QLKHACHSAN - Copy - Copy\DAO\bin\Debug\DAO.pdb
+C:\Users\PY\Desktop\NET_QLKHACHSAN - Copy - Copy\DAO\bin\Debug\DTO.dll
+C:\Users\PY\Desktop\NET_QLKHACHSAN - Copy - Copy\DAO\bin\Debug\DTO.pdb
+C:\Users\PY\Desktop\NET_QLKHACHSAN - Copy - Copy\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\PY\Desktop\NET_QLKHACHSAN - Copy - Copy\DAO\obj\Debug\DAO.dll
+C:\Users\PY\Desktop\NET_QLKHACHSAN - Copy - Copy\DAO\obj\Debug\DAO.pdb
+D:\HOC TAP\CÔNG NGHỆ PHẦN MỀM\NET_QLKHACHSAN - Copy - Copy\DAMH_Nhom3_2001180247_TranDongPy_QL_KHACHSAN_PhanMem\DAO\bin\Debug\DAO.dll.config
+D:\HOC TAP\CÔNG NGHỆ PHẦN MỀM\NET_QLKHACHSAN - Copy - Copy\DAMH_Nhom3_2001180247_TranDongPy_QL_KHACHSAN_PhanMem\DAO\bin\Debug\DAO.dll
+D:\HOC TAP\CÔNG NGHỆ PHẦN MỀM\NET_QLKHACHSAN - Copy - Copy\DAMH_Nhom3_2001180247_TranDongPy_QL_KHACHSAN_PhanMem\DAO\bin\Debug\DAO.pdb
+D:\HOC TAP\CÔNG NGHỆ PHẦN MỀM\NET_QLKHACHSAN - Copy - Copy\DAMH_Nhom3_2001180247_TranDongPy_QL_KHACHSAN_PhanMem\DAO\bin\Debug\DTO.dll
+D:\HOC TAP\CÔNG NGHỆ PHẦN MỀM\NET_QLKHACHSAN - Copy - Copy\DAMH_Nhom3_2001180247_TranDongPy_QL_KHACHSAN_PhanMem\DAO\bin\Debug\DTO.pdb
+D:\HOC TAP\CÔNG NGHỆ PHẦN MỀM\NET_QLKHACHSAN - Copy - Copy\DAMH_Nhom3_2001180247_TranDongPy_QL_KHACHSAN_PhanMem\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\HOC TAP\CÔNG NGHỆ PHẦN MỀM\NET_QLKHACHSAN - Copy - Copy\DAMH_Nhom3_2001180247_TranDongPy_QL_KHACHSAN_PhanMem\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\HOC TAP\CÔNG NGHỆ PHẦN MỀM\NET_QLKHACHSAN - Copy - Copy\DAMH_Nhom3_2001180247_TranDongPy_QL_KHACHSAN_PhanMem\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\HOC TAP\CÔNG NGHỆ PHẦN MỀM\NET_QLKHACHSAN - Copy - Copy\DAMH_Nhom3_2001180247_TranDongPy_QL_KHACHSAN_PhanMem\DAO\obj\Debug\DAO.dll
+D:\HOC TAP\CÔNG NGHỆ PHẦN MỀM\NET_QLKHACHSAN - Copy - Copy\DAMH_Nhom3_2001180247_TranDongPy_QL_KHACHSAN_PhanMem\DAO\obj\Debug\DAO.pdb

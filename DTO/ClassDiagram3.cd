@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DTO.ChiTietDatPhongDTO" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAEAAAAQAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>ChiTietDatPhongDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DTO.ChiTietHoaDon1DTO" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAoEIBIQEAAAAQAAAAAAAIAAQBAAAEIIAAUAAAAyAA=</HashCode>
+      <FileName>ChiTietHoaDon1DTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DTO.ChiTietHoaDon2DTO" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAABAAAAACAAAAAAAQAIgAAAAAREAAAARAAACAAA=</HashCode>
+      <FileName>ChiTietHoaDon2DTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DTO.ChiTietThuePhongDTO" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAgAAABAAAAQAAAAAAAQAAAAAAQAAACQAgQAAA=</HashCode>
+      <FileName>ChiTietThuePhongDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DTO.ChiTietVatTuDTO" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAABAAAAAAAAAAAAgAAACAAAABAAAAgAAAA=</HashCode>
+      <FileName>ChiTietVatTuDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DTO.DichVuDTO" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAgAAAAAABAAAAAgAABAAAAAQAAAAACAQAAAAA=</HashCode>
+      <FileName>DichVuDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DTO.HeThongDTO" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAFQAAAAAAABACAAAAAAAAAAA=</HashCode>
+      <FileName>HeThongDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DTO.HoaDonDTO" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAIQAABBAQAAAAAQAABAIAAAAAAAAAQAAQAAAQAAA=</HashCode>
+      <FileName>HoaDonDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DTO.KhachHangDTO">
+    <Position X="9" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAABAQAAAGAAAAGAAgQAACgAAAAACAAAQAIAAAQAQAA=</HashCode>
+      <FileName>KhachHangDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DTO.KiemTraPhongDTO" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAQQAEAAIAQQBAAAAAIAAAQAAAAAA=</HashCode>
+      <FileName>KiemTraPhongDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DTO.LoaiPhongDTO" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAACAAAABAAAAAAAABAAAAAAgCAAAAAAAAAAA=</HashCode>
+      <FileName>LoaiPhongDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DTO.LoginDTO" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAEAAAAAAAAAAAAASAIBAAAAAAAAQAAAgAAAAAAAAA=</HashCode>
+      <FileName>LoginDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DTO.NhanVienDTO" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEEAAAAAAAAAACAAQAEIgAEAAAARQAAACAIAAAAAA=</HashCode>
+      <FileName>NhanVienDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DTO.PhieuDatPhongDTO">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABQAAAIAAAAAAAQAEBAIAQQBAAAgCaAAAAAAAAAA=</HashCode>
+      <FileName>PhieuDatPhongDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DTO.PhieuThuePhongDTO" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAQAEBAAAQAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>PhieuThuePhongDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DTO.PhongDTO" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAEAACAAAAEAQAAAAAAAAAAAAAAAAAAIQAAAQAA=</HashCode>
+      <FileName>PhongDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DTO.VatTuDTO" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAABIAAAAAAAA=</HashCode>
+      <FileName>VatTuDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
